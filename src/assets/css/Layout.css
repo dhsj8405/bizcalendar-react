@@ -1,0 +1,26 @@
+/* .bizLogo {
+    width: 80px;
+    height: 25px;
+}
+
+
+.navIcon {
+    width: 40px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.custom-search-bar{
+    background-color: white;
+    color: black;   
+} */
+/* .custom-search-bar:focus {
+    outline: none;
+    box-shadow: none;
+    background-color: white;
+  } */
+
+
+  .underline-navbar{
+    border-bottom: 0.1px solid #e0edf9;
+  }
